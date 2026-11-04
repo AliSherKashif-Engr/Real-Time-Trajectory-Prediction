@@ -1,0 +1,56 @@
+{
+    "M1: Baseline ST-GNN (2D)": {
+        "ade_1s": 1.344,
+        "ade_3s": 3.798,
+        "fde_3s": 7.408,
+        "f1_score": 0.3866,
+        "auc_roc": 0.6649,
+        "latency_ms": 0.68,
+        "params": "0.29M"
+    },
+    "M2: + 7D Telemetry Vector": {
+        "ade_1s": 0.712,
+        "ade_3s": 1.154,
+        "fde_3s": 1.855,
+        "f1_score": 0.7516,
+        "auc_roc": 0.7084,
+        "latency_ms": 0.64,
+        "params": "0.29M"
+    },
+    "M3: + Dynamic Spatial GAT": {
+        "ade_1s": 0.407,
+        "ade_3s": 0.892,
+        "fde_3s": 1.729,
+        "f1_score": 0.2771,
+        "auc_roc": 0.4757,
+        "latency_ms": 1.28,
+        "params": "0.36M"
+    },
+    "M4: + Patchified Encoder": {
+        "ade_1s": 0.634,
+        "ade_3s": 1.511,
+        "fde_3s": 2.922,
+        "f1_score": 0.2866,
+        "auc_roc": 0.5216,
+        "latency_ms": 0.88,
+        "params": "0.43M"
+    },
+    "M5: + Kinematic Residual Prior": {
+        "ade_1s": 0.394,
+        "ade_3s": 0.908,
+        "fde_3s": 1.819,
+        "f1_score": 0.3037,
+        "auc_roc": 0.5425,
+        "latency_ms": 1.06,
+        "params": "0.45M"
+    },
+    "M6: Full MT-STGTD (+ Energy Head & Uncertainty Loss)": {
+        "ade_1s": 0.282,
+        "ade_3s": 0.588,
+        "fde_3s": 1.155,
+        "f1_score": 0.6791,
+        "auc_roc": 0.9313,
+        "latency_ms": 0.77,
+        "params": "0.47M"
+    }
+}

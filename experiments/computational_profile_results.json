@@ -1,0 +1,47 @@
+{
+    "LSTM-Autoencoder": {
+        "parameters_m": 0.07,
+        "flops_g": 0.0,
+        "edge_latency_ms": 1.95,
+        "edge_fps": 513.2,
+        "cloud_latency_per_sample_ms": 0.54,
+        "cloud_fps": 1845.8,
+        "sla_compliance": "PASSED"
+    },
+    "ST-GCN": {
+        "parameters_m": 0.03,
+        "flops_g": 0.0,
+        "edge_latency_ms": 2.43,
+        "edge_fps": 411.5,
+        "cloud_latency_per_sample_ms": 0.24,
+        "cloud_fps": 4219.6,
+        "sla_compliance": "PASSED"
+    },
+    "PatchTST": {
+        "parameters_m": 0.3,
+        "flops_g": 0.03,
+        "edge_latency_ms": 3.27,
+        "edge_fps": 305.5,
+        "cloud_latency_per_sample_ms": 0.64,
+        "cloud_fps": 1573.1,
+        "sla_compliance": "PASSED"
+    },
+    "AA-STGAT (Base Paper)": {
+        "parameters_m": 0.36,
+        "flops_g": 0.08,
+        "edge_latency_ms": 15.46,
+        "edge_fps": 64.7,
+        "cloud_latency_per_sample_ms": 2.09,
+        "cloud_fps": 479.2,
+        "sla_compliance": "FAILED"
+    },
+    "MT-STGTD (Proposed)": {
+        "parameters_m": 0.47,
+        "flops_g": 0.05,
+        "edge_latency_ms": 5.51,
+        "edge_fps": 181.5,
+        "cloud_latency_per_sample_ms": 1.47,
+        "cloud_fps": 681.0,
+        "sla_compliance": "PASSED"
+    }
+}

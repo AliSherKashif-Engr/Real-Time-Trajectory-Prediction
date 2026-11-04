@@ -1,0 +1,1088 @@
+[
+  {
+    "index": 1,
+    "key": "kashif2025realtime",
+    "bib_title": "Real-Time Trajectory Prediction and Anomaly Detection in Large-Scale Vehicle Telemetry with Deep Learning",
+    "bib_authors": "Kashif, Ali Sher",
+    "bib_year": "2025",
+    "bib_venue": "IEEE Transactions on Intelligent Transportation Systems",
+    "verification": {
+      "verified": false,
+      "reason": "No match above similarity threshold in OpenAlex"
+    }
+  },
+  {
+    "index": 2,
+    "key": "li2024interaction",
+    "bib_title": "Graph-Based Interaction-Aware Multimodal 2D Vehicle Trajectory Prediction Using Diffusion Graph Convolutional Networks",
+    "bib_authors": "Li, Chao and Zhao, Xiang and Wang, Yong",
+    "bib_year": "2024",
+    "bib_venue": "IEEE Transactions on Intelligent Vehicles",
+    "verification": {
+      "verified": true,
+      "found_title": "Graph-Based Interaction-Aware Multimodal 2D Vehicle Trajectory Prediction Using Diffusion Graph Convolutional Networks",
+      "similarity": 1.0,
+      "doi": "https://doi.org/10.1109/tiv.2023.3341071",
+      "url": "https://doi.org/10.1109/tiv.2023.3341071",
+      "venue": "IEEE Transactions on Intelligent Vehicles",
+      "year": 2023,
+      "authors": [
+        "Keshu Wu",
+        "Yang Zhou",
+        "Haotian Shi"
+      ],
+      "cited_by_count": 49,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 3,
+    "key": "katariya2024pov",
+    "bib_title": "A POV-Based Highway Vehicle Trajectory Dataset and Prediction Architecture",
+    "bib_authors": "Katariya, Viren and Chen, Haotian and Smith, Robert",
+    "bib_year": "2024",
+    "bib_venue": "IEEE Transactions on Intelligent Transportation Systems",
+    "verification": {
+      "verified": true,
+      "found_title": "A POV-Based Highway Vehicle Trajectory Dataset and Prediction Architecture",
+      "similarity": 1.0,
+      "doi": "https://doi.org/10.1109/tits.2024.3435775",
+      "url": "https://doi.org/10.1109/tits.2024.3435775",
+      "venue": "IEEE Transactions on Intelligent Transportation Systems",
+      "year": 2024,
+      "authors": [
+        "Vinit Katariya",
+        "Ghazal Alinezhad Noghre",
+        "Armin Danesh Pazho"
+      ],
+      "cited_by_count": 11,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 4,
+    "key": "nie2023patchtst",
+    "bib_title": "A Time Series is Worth 64 Words: Long-term Forecasting with Transformers",
+    "bib_authors": "Nie, Yuqi and Nguyen, Nam H. and Sinthong, Phanwadee and Kalagnanam, Jayant",
+    "bib_year": "2023",
+    "bib_venue": "International Conference on Learning Representations (ICLR)",
+    "verification": {
+      "verified": true,
+      "found_title": "A Time Series is Worth 64 Words: Long-term Forecasting with Transformers",
+      "similarity": 1.0,
+      "doi": "https://doi.org/10.48550/arxiv.2211.14730",
+      "url": "http://arxiv.org/abs/2211.14730",
+      "venue": "arXiv (Cornell University)",
+      "year": 2022,
+      "authors": [
+        "Yuqi Nie",
+        "Nam Hoai Nguyen",
+        "Phanwadee Sinthong"
+      ],
+      "cited_by_count": 536,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 5,
+    "key": "song2020spatial",
+    "bib_title": "Spatial-Temporal Synchronous Graph Convolutional Networks for Traffic Flow Forecasting",
+    "bib_authors": "Song, Chao and Lin, Youfang and Guo, Shengnan and Wan, Huaiyu",
+    "bib_year": "2020",
+    "bib_venue": "IEEE Transactions on Knowledge and Data Engineering",
+    "verification": {
+      "verified": true,
+      "found_title": "Attention-based spatial-temporal synchronous graph convolution networks for traffic flow forecasting",
+      "similarity": 0.903,
+      "doi": "https://doi.org/10.1007/s10489-025-06341-4",
+      "url": "https://doi.org/10.1007/s10489-025-06341-4",
+      "venue": "Applied Intelligence",
+      "year": 2025,
+      "authors": [
+        "Xiaoduo Wei",
+        "Dawen Xia",
+        "Yunsong Li"
+      ],
+      "cited_by_count": 7,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 6,
+    "key": "moreiraMatias2013taxiDemand",
+    "bib_title": "Predicting Taxi-Passenger Demand Using Streaming Data",
+    "bib_authors": "Moreira-Matias, Luis and Gama, Joao and Ferreira, Michel and Mendes-Moreira, Joao and Damas, Luis",
+    "bib_year": "2013",
+    "bib_venue": "IEEE Transactions on Intelligent Transportation Systems",
+    "verification": {
+      "verified": true,
+      "found_title": "Predicting Taxi–Passenger Demand Using Streaming Data",
+      "similarity": 1.0,
+      "doi": "https://doi.org/10.1109/tits.2013.2262376",
+      "url": "https://doi.org/10.1109/tits.2013.2262376",
+      "venue": "IEEE Transactions on Intelligent Transportation Systems",
+      "year": 2013,
+      "authors": [
+        "Luís Moreira-Matias",
+        "João Manuel Portela da Gama",
+        "Michel Ferreira"
+      ],
+      "cited_by_count": 721,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 7,
+    "key": "krajewski2018highd",
+    "bib_title": "The highD Dataset: A Drone Dataset of Naturalistic Vehicle Trajectories on German Highways for Machine Learning in Automated Driving",
+    "bib_authors": "Krajewski, Robert and Bock, Julian and Kloeker, Laurent and Eckstein, Lutz",
+    "bib_year": "2018",
+    "bib_venue": "IEEE International Conference on Intelligent Transportation Systems (ITSC)",
+    "verification": {
+      "verified": true,
+      "found_title": "The inD Dataset: A Drone Dataset of Naturalistic Road User Trajectories at German Intersections",
+      "similarity": 0.684,
+      "doi": "https://doi.org/10.1109/iv47402.2020.9304839",
+      "url": "https://doi.org/10.1109/iv47402.2020.9304839",
+      "venue": "IEEE Intelligent Vehicles Symposium",
+      "year": 2020,
+      "authors": [
+        "Julian Bock",
+        "Robert Krajewski",
+        "Tobias Moers"
+      ],
+      "cited_by_count": 475,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 8,
+    "key": "zheng2011tdrive",
+    "bib_title": "T-Drive: Driving Directions Based on Taxi Trajectories",
+    "bib_authors": "Zheng, Yu and Zhang, Lizhu and Xie, Xing and Ma, Wei-Ying",
+    "bib_year": "2011",
+    "bib_venue": "ACM Transactions on Intelligent Systems and Technology (TIST)",
+    "verification": {
+      "verified": false,
+      "reason": "No match above similarity threshold in OpenAlex"
+    }
+  },
+  {
+    "index": 9,
+    "key": "kendall2018multi",
+    "bib_title": "Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics",
+    "bib_authors": "Kendall, Alex and Gal, Yarin and Cipolla, Roberto",
+    "bib_year": "2018",
+    "bib_venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "verification": {
+      "verified": true,
+      "found_title": "Multi-task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics",
+      "similarity": 1.0,
+      "doi": "https://doi.org/10.1109/cvpr.2018.00781",
+      "url": "https://doi.org/10.1109/cvpr.2018.00781",
+      "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings",
+      "year": 2018,
+      "authors": [
+        "Roberto Cipolla",
+        "Yarin Gal",
+        "Alex Kendall"
+      ],
+      "cited_by_count": 3140,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 10,
+    "key": "alahi2016social",
+    "bib_title": "Social LSTM: Human Trajectory Prediction in Crowded Spaces",
+    "bib_authors": "Alahi, Alexandre and Goel, Kratarth and Ramanathan, Vignesh and Robicquet, Alexandre and Fei-Fei, Li and Savarese, Silvio",
+    "bib_year": "2016",
+    "bib_venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "verification": {
+      "verified": true,
+      "found_title": "Social LSTM: Human Trajectory Prediction in Crowded Spaces",
+      "similarity": 1.0,
+      "doi": "https://doi.org/10.1109/cvpr.2016.110",
+      "url": "https://doi.org/10.1109/cvpr.2016.110",
+      "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings",
+      "year": 2016,
+      "authors": [
+        "Alexandre Alahi",
+        "Kratarth Goel",
+        "Vignesh Ramanathan"
+      ],
+      "cited_by_count": 3477,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 11,
+    "key": "mohamed2020social",
+    "bib_title": "Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction",
+    "bib_authors": "Mohamed, Abduallah and Qian, Kun and Elhoseiny, Mohamed and Claudel, Christian",
+    "bib_year": "2020",
+    "bib_venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "verification": {
+      "verified": true,
+      "found_title": "Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction",
+      "similarity": 1.0,
+      "doi": "https://doi.org/10.1109/cvpr42600.2020.01443",
+      "url": "https://doi.org/10.1109/cvpr42600.2020.01443",
+      "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings",
+      "year": 2020,
+      "authors": [
+        "Abduallah Mohamed",
+        "Kun Qian",
+        "Mohamed Elhoseiny"
+      ],
+      "cited_by_count": 985,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 12,
+    "key": "salzmann2020trajectron",
+    "bib_title": "Trajectron++: Dynamically-Feasible Trajectory Forecasting With Heterogeneous Data",
+    "bib_authors": "Salzmann, Tim and Ivanovic, Boris and Chakravarty, Punarjay and Pavone, Marco",
+    "bib_year": "2020",
+    "bib_venue": "European Conference on Computer Vision (ECCV)",
+    "verification": {
+      "verified": true,
+      "found_title": "Trajectron++: Dynamically-Feasible Trajectory Forecasting with Heterogeneous Data",
+      "similarity": 1.0,
+      "doi": "https://doi.org/10.1007/978-3-030-58523-5_40",
+      "url": "https://doi.org/10.1007/978-3-030-58523-5_40",
+      "venue": "Lecture notes in computer science",
+      "year": 2020,
+      "authors": [
+        "Tim Salzmann",
+        "Boris Ivanovic",
+        "Punarjay Chakravarty"
+      ],
+      "cited_by_count": 1070,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 13,
+    "key": "velickovic2018graph",
+    "bib_title": "Graph Attention Networks",
+    "bib_authors": "Veli{\\v{c",
+    "bib_year": "2018",
+    "bib_venue": "International Conference on Learning Representations (ICLR)",
+    "verification": {
+      "verified": true,
+      "found_title": "Graph Attention Networks",
+      "similarity": 1.0,
+      "doi": "https://doi.org/10.17863/cam.48429",
+      "url": "http://arxiv.org/abs/1710.10903",
+      "venue": "arXiv (Cornell University)",
+      "year": 2017,
+      "authors": [
+        "Petar Veličković",
+        "Casanova, A",
+        "P Liò"
+      ],
+      "cited_by_count": 8641,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 14,
+    "key": "ho2020denoising",
+    "bib_title": "Denoising Diffusion Probabilistic Models",
+    "bib_authors": "Ho, Jonathan and Jain, Ajay and Abbeel, Pieter",
+    "bib_year": "2020",
+    "bib_venue": "Advances in Neural Information Processing Systems (NeurIPS)",
+    "verification": {
+      "verified": true,
+      "found_title": "Denoising Diffusion Probabilistic Models",
+      "similarity": 1.0,
+      "doi": "https://doi.org/10.48550/arxiv.2006.11239",
+      "url": "http://arxiv.org/abs/2006.11239",
+      "venue": "arXiv (Cornell University)",
+      "year": 2020,
+      "authors": [
+        "Ho, Jonathan",
+        "Jain, Ajay",
+        "Pieter Abbeel"
+      ],
+      "cited_by_count": 5441,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 15,
+    "key": "gu2022mid",
+    "bib_title": "Stochastic Trajectory Prediction via Motion Indeterminacy Diffusion",
+    "bib_authors": "Gu, Tianpei and Chen, Guangyi and Li, Junlong and Lin, Chunze and Rao, Yongming and Zhou, Jie and Lu, Jiwen",
+    "bib_year": "2022",
+    "bib_venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "verification": {
+      "verified": true,
+      "found_title": "Stochastic Trajectory Prediction via Motion Indeterminacy Diffusion",
+      "similarity": 1.0,
+      "doi": "https://doi.org/10.1109/cvpr52688.2022.01660",
+      "url": "https://doi.org/10.1109/cvpr52688.2022.01660",
+      "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings",
+      "year": 2022,
+      "authors": [
+        "Tianpei Gu",
+        "Guangyi Chen",
+        "Junlong Li"
+      ],
+      "cited_by_count": 310,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 16,
+    "key": "huang2026physicsAware",
+    "bib_title": "Physics-Aware Spatial--Temporal Vehicle Trajectory Prediction with Discriminative Anomaly Scoring",
+    "bib_authors": "Huang, Jin and Liu, Wei and Zhang, Rong",
+    "bib_year": "2026",
+    "bib_venue": "IEEE Transactions on Intelligent Transportation Systems",
+    "verification": {
+      "verified": false,
+      "reason": "No match above similarity threshold in OpenAlex"
+    }
+  },
+  {
+    "index": 17,
+    "key": "vaswani2017attention",
+    "bib_title": "Attention Is All You Need",
+    "bib_authors": "Vaswani, Ashish and Shazeer, Noam and Parmar, Niki and Uszkoreit, Jakob and Jones, Llion and Gomez, Aidan N. and Kaiser, {\\L",
+    "bib_year": "2017",
+    "bib_venue": "Advances in Neural Information Processing Systems (NeurIPS)",
+    "verification": {
+      "verified": true,
+      "found_title": "Attention Is All You Need",
+      "similarity": 1.0,
+      "doi": "https://doi.org/10.65215/2q58a426",
+      "url": "https://doi.org/10.65215/2q58a426",
+      "venue": "",
+      "year": 2025,
+      "authors": [
+        "Ashish Vaswani",
+        "Noam Shazeer",
+        "Niki Jitendra Parmar"
+      ],
+      "cited_by_count": 24351,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 18,
+    "key": "hochreiter1997long",
+    "bib_title": "Long Short-Term Memory",
+    "bib_authors": "Hochreiter, Sepp and Schmidhuber, J{\\\"u",
+    "bib_year": "1997",
+    "bib_venue": "Neural Computation",
+    "verification": {
+      "verified": true,
+      "found_title": "Long Short-Term Memory",
+      "similarity": 1.0,
+      "doi": "https://doi.org/10.1162/neco.1997.9.8.1735",
+      "url": "https://doi.org/10.1162/neco.1997.9.8.1735",
+      "venue": "Neural Computation",
+      "year": 1997,
+      "authors": [
+        "Sepp Hochreiter",
+        "Jürgen Schmidhuber"
+      ],
+      "cited_by_count": 99976,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 19,
+    "key": "kipf2017semi",
+    "bib_title": "Semi-Supervised Classification with Graph Convolutional Networks",
+    "bib_authors": "Kipf, Thomas N. and Welling, Max",
+    "bib_year": "2017",
+    "bib_venue": "International Conference on Learning Representations (ICLR)",
+    "verification": {
+      "verified": true,
+      "found_title": "Semi-Supervised Classification with Graph Convolutional Networks",
+      "similarity": 1.0,
+      "doi": "https://doi.org/10.48550/arxiv.1609.02907",
+      "url": "http://arxiv.org/abs/1609.02907",
+      "venue": "arXiv (Cornell University)",
+      "year": 2016,
+      "authors": [
+        "Thomas Kipf",
+        "Max Welling"
+      ],
+      "cited_by_count": 7432,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 20,
+    "key": "wu2020comprehensive",
+    "bib_title": "A Comprehensive Survey on Graph Neural Networks",
+    "bib_authors": "Wu, Zonghan and Pan, Shirui and Chen, Fengwen and Long, Guodong and Zhang, Chengqi and Yu, Philip S.",
+    "bib_year": "2021",
+    "bib_venue": "IEEE Transactions on Neural Networks and Learning Systems",
+    "verification": {
+      "verified": true,
+      "found_title": "A Comprehensive Survey on Graph Neural Networks",
+      "similarity": 1.0,
+      "doi": "https://doi.org/10.1109/tnnls.2020.2978386",
+      "url": "https://doi.org/10.1109/tnnls.2020.2978386",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "year": 2020,
+      "authors": [
+        "Zonghan Wu",
+        "Shirui Pan",
+        "Fengwen Chen"
+      ],
+      "cited_by_count": 10089,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 21,
+    "key": "deo2018convolutional",
+    "bib_title": "Convolutional Social Pooling for Vehicle Trajectory Prediction",
+    "bib_authors": "Deo, Nachiket and Trivedi, Mohan M.",
+    "bib_year": "2018",
+    "bib_venue": "IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "verification": {
+      "verified": true,
+      "found_title": "Convolutional Social Pooling for Vehicle Trajectory Prediction",
+      "similarity": 1.0,
+      "doi": "https://doi.org/10.1109/cvprw.2018.00196",
+      "url": "https://doi.org/10.1109/cvprw.2018.00196",
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+      "year": 2018,
+      "authors": [
+        "Nachiket Deo",
+        "Mohan Manubhai Trivedi"
+      ],
+      "cited_by_count": 1050,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 22,
+    "key": "gupta2018social",
+    "bib_title": "Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks",
+    "bib_authors": "Gupta, Agrim and Johnson, Justin and Fei-Fei, Li and Savarese, Silvio and Alahi, Alexandre",
+    "bib_year": "2018",
+    "bib_venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "verification": {
+      "verified": true,
+      "found_title": "Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks",
+      "similarity": 1.0,
+      "doi": "https://doi.org/10.1109/cvpr.2018.00240",
+      "url": "https://doi.org/10.1109/cvpr.2018.00240",
+      "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings",
+      "year": 2018,
+      "authors": [
+        "Agrim Gupta",
+        "Justin Johnson",
+        "Li Fei-Fei"
+      ],
+      "cited_by_count": 2370,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 23,
+    "key": "sadeghian2019sophie",
+    "bib_title": "SoPhie",
+    "bib_authors": "Sadeghian, Amir and Kosaraju, Vineet and Sadeghian, Ali and Hirose, Noriaki and Rezatofighi, Hamid and Savarese, Silvio",
+    "bib_year": "2019",
+    "bib_venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "verification": {
+      "verified": false,
+      "reason": "No match above similarity threshold in OpenAlex"
+    }
+  },
+  {
+    "index": 24,
+    "key": "gao2020vectornet",
+    "bib_title": "VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation",
+    "bib_authors": "Gao, Jiyang and Sun, Chen and Zhao, Hang and Shen, Yi and Anguelov, Dragomir and Li, Congcong and Schmid, Cordelia",
+    "bib_year": "2020",
+    "bib_venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "verification": {
+      "verified": true,
+      "found_title": "VectorNet: Encoding HD Maps and Agent Dynamics From Vectorized Representation",
+      "similarity": 1.0,
+      "doi": "https://doi.org/10.1109/cvpr42600.2020.01154",
+      "url": "https://doi.org/10.1109/cvpr42600.2020.01154",
+      "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings",
+      "year": 2020,
+      "authors": [
+        "Jiyang Gao",
+        "Chen Sun",
+        "Hang Zhao"
+      ],
+      "cited_by_count": 977,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 25,
+    "key": "liang2020learning",
+    "bib_title": "Learning Lane Graph Representations for Motion Forecasting",
+    "bib_authors": "Liang, Ming and Yang, Bin and Hu, Rui and Chen, Yun and Liao, Renjie and Feng, Shaoshuai and Urtasun, Raquel",
+    "bib_year": "2020",
+    "bib_venue": "European Conference on Computer Vision (ECCV)",
+    "verification": {
+      "verified": true,
+      "found_title": "Learning Lane Graph Representations for Motion Forecasting",
+      "similarity": 1.0,
+      "doi": "https://doi.org/10.1007/978-3-030-58536-5_32",
+      "url": "https://doi.org/10.1007/978-3-030-58536-5_32",
+      "venue": "Lecture notes in computer science",
+      "year": 2020,
+      "authors": [
+        "Ming Xuan Liang",
+        "Bin Yang",
+        "Rui Sheng Hu"
+      ],
+      "cited_by_count": 695,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 26,
+    "key": "shi2022motion",
+    "bib_title": "Motion Transformer with Global Intention Localization and Local Movement Refinement",
+    "bib_authors": "Shi, Shaoshuai and Jiang, Li and Dai, Dengxin and Schiele, Bernt",
+    "bib_year": "2022",
+    "bib_venue": "Advances in Neural Information Processing Systems (NeurIPS)",
+    "verification": {
+      "verified": true,
+      "found_title": "Motion Transformer with Global Intention Localization and Local Movement Refinement",
+      "similarity": 1.0,
+      "doi": "https://doi.org/10.52202/068431-0473",
+      "url": "https://doi.org/10.52202/068431-0473",
+      "venue": "neural information processing systems",
+      "year": 2022,
+      "authors": [
+        "Shaoshuai Shi",
+        "Li Jiang",
+        "Dengxin Dai"
+      ],
+      "cited_by_count": 139,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 27,
+    "key": "zhou2022hivt",
+    "bib_title": "HiVT",
+    "bib_authors": "Zhou, Zikang and Ye, Luyao and Wang, Jianping and Wu, Kui and Lu, Kejie",
+    "bib_year": "2022",
+    "bib_venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "verification": {
+      "verified": false,
+      "reason": "No match above similarity threshold in OpenAlex"
+    }
+  },
+  {
+    "index": 28,
+    "key": "mercat2020multi",
+    "bib_title": "Multi-Head Attention for Multi-Modal Joint Vehicle Motion Forecasting",
+    "bib_authors": "Mercat, Jean and Gilles, Thomas and El Zoghby, Nicole and Sandou, Guillaume and Beauvois, Dominique and Gil, Guillermo Pitarch",
+    "bib_year": "2020",
+    "bib_venue": "IEEE Robotics and Automation Letters",
+    "verification": {
+      "verified": true,
+      "found_title": "Multi-Head Attention for Multi-Modal Joint Vehicle Motion Forecasting",
+      "similarity": 1.0,
+      "doi": "https://doi.org/10.1109/icra40945.2020.9197340",
+      "url": "https://doi.org/10.1109/icra40945.2020.9197340",
+      "venue": "Proceedings - IEEE International Conference on Robotics and Automation/Proceedings",
+      "year": 2020,
+      "authors": [
+        "Jean Mercat",
+        "Thomas Gilles",
+        "Nicole El Zoghby"
+      ],
+      "cited_by_count": 201,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 29,
+    "key": "zhao2021tnt",
+    "bib_title": "TNT",
+    "bib_authors": "Zhao, Hang and Gao, Jiyang and Lan, Tian and Sun, Chen and Sapp, Benjamin and Balakrishnan, Balakrishnan and Chai, Yuning and Schmid, Cordelia and Li, Congcong and Anguelov, Dragomir",
+    "bib_year": "2021",
+    "bib_venue": "Conference on Robot Learning (CoRL)",
+    "verification": {
+      "verified": true,
+      "found_title": "TnT",
+      "similarity": 1.0,
+      "doi": "https://doi.org/10.3115/974147.974178",
+      "url": "https://doi.org/10.3115/974147.974178",
+      "venue": "Conference on Applied Natural Language Processing",
+      "year": 2000,
+      "authors": [
+        "Thorsten Brants"
+      ],
+      "cited_by_count": 1328,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 30,
+    "key": "nayakanti2023wayformer",
+    "bib_title": "Wayformer: Motion Forecasting via Simple \\& Efficient Attention Networks",
+    "bib_authors": "Nayakanti, Nigamaa and Al-Rfou, Rami and Zhou, Aurick and Goel, Kratarth and Sastry, Kanishka and Vora, Saurabh and Satish, Nimit and Rajgor, Harsh and Asfoor, Bilhar and Kretzschmar, Henrik",
+    "bib_year": "2023",
+    "bib_venue": "IEEE International Conference on Robotics and Automation (ICRA)",
+    "verification": {
+      "verified": true,
+      "found_title": "Wayformer: Motion Forecasting via Simple & Efficient Attention Networks",
+      "similarity": 1.0,
+      "doi": "https://doi.org/10.1109/icra48891.2023.10160609",
+      "url": "https://doi.org/10.1109/icra48891.2023.10160609",
+      "venue": "Proceedings - IEEE International Conference on Robotics and Automation/Proceedings",
+      "year": 2023,
+      "authors": [
+        "Nigamaa Nayakanti",
+        "Rami Al‐Rfou",
+        "Aurick Zhou"
+      ],
+      "cited_by_count": 261,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 31,
+    "key": "li2019grip",
+    "bib_title": "GRIP++",
+    "bib_authors": "Li, Xin and Ying, Xiaowen and Chuah, Mooi Choo",
+    "bib_year": "2022",
+    "bib_venue": "IEEE Transactions on Intelligent Vehicles",
+    "verification": {
+      "verified": false,
+      "reason": "No match above similarity threshold in OpenAlex"
+    }
+  },
+  {
+    "index": 32,
+    "key": "mo2022multi",
+    "bib_title": "Multi-Agent Trajectory Prediction With Heterogeneous Edge-Enhanced Directed Graph Attention Network",
+    "bib_authors": "Mo, Xiaoyu and Huang, Zhiyu and Xing, Yang and Lv, Chen",
+    "bib_year": "2022",
+    "bib_venue": "IEEE Transactions on Intelligent Transportation Systems",
+    "verification": {
+      "verified": true,
+      "found_title": "Multi-Agent Trajectory Prediction With Heterogeneous Edge-Enhanced Graph Attention Network",
+      "similarity": 0.952,
+      "doi": "https://doi.org/10.1109/tits.2022.3146300",
+      "url": "https://doi.org/10.1109/tits.2022.3146300",
+      "venue": "IEEE Transactions on Intelligent Transportation Systems",
+      "year": 2022,
+      "authors": [
+        "Xiaoyu Mo",
+        "Zhiyu Huang",
+        "Yang Xing"
+      ],
+      "cited_by_count": 301,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 33,
+    "key": "monti2021dag",
+    "bib_title": "A DAG-Consistent Graph Convolutional Framework for Multi-Agent Trajectory Prediction",
+    "bib_authors": "Monti, Alessio and Sangiovanni, Angelo and Ponzellini, Riccardo and Fragnelli, Giuseppe and Corno, Matteo",
+    "bib_year": "2022",
+    "bib_venue": "IEEE Transactions on Intelligent Transportation Systems",
+    "verification": {
+      "verified": false,
+      "reason": "No match above similarity threshold in OpenAlex"
+    }
+  },
+  {
+    "index": 34,
+    "key": "sohlDickstein2015thermodynamics",
+    "bib_title": "Deep Unsupervised Learning using Nonequilibrium Thermodynamics",
+    "bib_authors": "Sohl-Dickstein, Jascha and Weiss, Eric and Khanshali, Niru and Sompolinsky, Haim",
+    "bib_year": "2015",
+    "bib_venue": "International Conference on Machine Learning (ICML)",
+    "verification": {
+      "verified": true,
+      "found_title": "Deep Unsupervised Learning using Nonequilibrium Thermodynamics",
+      "similarity": 1.0,
+      "doi": "https://doi.org/10.48550/arxiv.1503.03585",
+      "url": "http://arxiv.org/abs/1503.03585",
+      "venue": "arXiv (Cornell University)",
+      "year": 2015,
+      "authors": [
+        "Jascha Sohl‐Dickstein",
+        "Weiss, Eric A.",
+        "Niru Maheswaranathan"
+      ],
+      "cited_by_count": 1332,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 35,
+    "key": "song2021score",
+    "bib_title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+    "bib_authors": "Song, Yang and Sohl-Dickstein, Jascha and Kingma, Diederik P. and Kumar, Abhishek and Ermon, Stefano and Poole, Ben",
+    "bib_year": "2021",
+    "bib_venue": "International Conference on Learning Representations (ICLR)",
+    "verification": {
+      "verified": true,
+      "found_title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+      "similarity": 1.0,
+      "doi": "https://doi.org/10.48550/arxiv.2011.13456",
+      "url": "http://arxiv.org/abs/2011.13456",
+      "venue": "arXiv (Cornell University)",
+      "year": 2020,
+      "authors": [
+        "Yang Sup Song",
+        "Jascha Sohl‐Dickstein",
+        "Diederik P. Kingma"
+      ],
+      "cited_by_count": 1216,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 36,
+    "key": "chen2023diffusion",
+    "bib_title": "Diffusion-based Trajectory Prediction for Autonomous Driving",
+    "bib_authors": "Chen, Guanyu and Shen, Junru and Shen, Bo and Li, Wei and Ding, Mengmeng and Huang, Kaizhu",
+    "bib_year": "2023",
+    "bib_venue": "Advances in Neural Information Processing Systems (NeurIPS)",
+    "verification": {
+      "verified": true,
+      "found_title": "A Cognitive-Based Trajectory Prediction Approach for Autonomous Driving",
+      "similarity": 0.809,
+      "doi": "https://doi.org/10.1109/tiv.2024.3376074",
+      "url": "https://doi.org/10.1109/tiv.2024.3376074",
+      "venue": "IEEE Transactions on Intelligent Vehicles",
+      "year": 2024,
+      "authors": [
+        "Haicheng Liao",
+        "Yongkang Li",
+        "Zhenning Li"
+      ],
+      "cited_by_count": 72,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 37,
+    "key": "raissi2019physics",
+    "bib_title": "Physics-Informed Neural Networks: A Deep Learning Framework for Solving Forward and Inverse Problems Involving Nonlinear Partial Differential Equations",
+    "bib_authors": "Raissi, Maziar and Perdikaris, Paris and Karniadakis, George E.",
+    "bib_year": "2019",
+    "bib_venue": "Journal of Computational Physics",
+    "verification": {
+      "verified": true,
+      "found_title": "Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations",
+      "similarity": 1.0,
+      "doi": "https://doi.org/10.1016/j.jcp.2018.10.045",
+      "url": "https://doi.org/10.1016/j.jcp.2018.10.045",
+      "venue": "Journal of Computational Physics",
+      "year": 2018,
+      "authors": [
+        "Maziar Raissi",
+        "Paris G. Perdikaris",
+        "George Em Karniadakis"
+      ],
+      "cited_by_count": 19763,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 38,
+    "key": "ruff2018deep",
+    "bib_title": "Deep One-Class Classification",
+    "bib_authors": "Ruff, Lukas and Vandermeulen, Robert and Goernitz, Nico and Deecke, Lucas and Siddiqui, Shoaib Ahmed and Binder, Alexander and M{\\\"u",
+    "bib_year": "2018",
+    "bib_venue": "International Conference on Machine Learning (ICML)",
+    "verification": {
+      "verified": true,
+      "found_title": "Deep One-Class Classification",
+      "similarity": 1.0,
+      "doi": "",
+      "url": "http://proceedings.mlr.press/v80/ruff18a/ruff18a.pdf",
+      "venue": "International Conference on Machine Learning",
+      "year": 2018,
+      "authors": [
+        "Lukas Ruff",
+        "Robert A. Vandermeulen",
+        "Nico Görnitz"
+      ],
+      "cited_by_count": 794,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 39,
+    "key": "su2019robust",
+    "bib_title": "Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network",
+    "bib_authors": "Su, Ya and Zhao, Youjian and Niu, Chenhao and Liu, Rong and Sun, Wei and Pei, Dan",
+    "bib_year": "2019",
+    "bib_venue": "ACM SIGKDD International Conference on Knowledge Discovery \\& Data Mining (KDD)",
+    "verification": {
+      "verified": true,
+      "found_title": "Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network",
+      "similarity": 1.0,
+      "doi": "https://doi.org/10.1145/3292500.3330672",
+      "url": "https://doi.org/10.1145/3292500.3330672",
+      "venue": "ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD)",
+      "year": 2019,
+      "authors": [
+        "Ya Su",
+        "Youjian Zhao",
+        "Chenhao Niu"
+      ],
+      "cited_by_count": 1682,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 40,
+    "key": "xu2022anomaly",
+    "bib_title": "Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy",
+    "bib_authors": "Xu, Jiehui and Wu, Haixu and Wang, Jianmin and Long, Mingsheng",
+    "bib_year": "2022",
+    "bib_venue": "International Conference on Learning Representations (ICLR)",
+    "verification": {
+      "verified": true,
+      "found_title": "Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy",
+      "similarity": 1.0,
+      "doi": "https://doi.org/10.4230/lipics.time.2024.17",
+      "url": "http://arxiv.org/abs/2110.02642",
+      "venue": "arXiv (Cornell University)",
+      "year": 2021,
+      "authors": [
+        "Xu, Jiehui",
+        "Wu, Haixu",
+        "Jianmin Wang"
+      ],
+      "cited_by_count": 233,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 41,
+    "key": "audibert2020usad",
+    "bib_title": "USAD",
+    "bib_authors": "Audibert, Julien and Michiardi, Pietro and Guyard, Fr{\\'e",
+    "bib_year": "2020",
+    "bib_venue": "ACM SIGKDD International Conference on Knowledge Discovery \\& Data Mining (KDD)",
+    "verification": {
+      "verified": true,
+      "found_title": "USAD",
+      "similarity": 1.0,
+      "doi": "https://doi.org/10.1145/3394486.3403392",
+      "url": "https://doi.org/10.1145/3394486.3403392",
+      "venue": "ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD)",
+      "year": 2020,
+      "authors": [
+        "Julien Audibert",
+        "Pietro Michiardi",
+        "Frédéric Guyard"
+      ],
+      "cited_by_count": 1062,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 42,
+    "key": "pang2021deep",
+    "bib_title": "Deep Learning for Anomaly Detection: A Review",
+    "bib_authors": "Pang, Guansong and Shen, Chunhua and Cao, Longbing and Hengel, Anton van den",
+    "bib_year": "2021",
+    "bib_venue": "ACM Computing Surveys",
+    "verification": {
+      "verified": true,
+      "found_title": "Machine Learning and Deep Learning for Anomaly Detection: A Review of Methods, Applications, and Challenges",
+      "similarity": 0.595,
+      "doi": "https://doi.org/10.56975/jetir.v13i3.576541",
+      "url": "https://doi.org/10.56975/jetir.v13i3.576541",
+      "venue": "Journal of Emerging Technologies and Innovative Research",
+      "year": 2026,
+      "authors": [
+        "Atharva zamre",
+        "Ashilesh Pawar",
+        "Ashwini bhore"
+      ],
+      "cited_by_count": 0,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 43,
+    "key": "zong2018deep",
+    "bib_title": "Deep Autoencoding Gaussian Mixture Model for Unsupervised Anomaly Detection",
+    "bib_authors": "Zong, Bo and Song, Qi and Min, Martin Renqiang and Cheng, Wei and Lumezanu, Cristian and Cho, Daeki and Chen, Haifeng",
+    "bib_year": "2018",
+    "bib_venue": "International Conference on Learning Representations (ICLR)",
+    "verification": {
+      "verified": true,
+      "found_title": "Pyramid reconstruction assisted deep autoencoding Gaussian mixture model for industrial fault detection",
+      "similarity": 0.685,
+      "doi": "https://doi.org/10.1016/j.ins.2023.119682",
+      "url": "https://doi.org/10.1016/j.ins.2023.119682",
+      "venue": "Information Sciences",
+      "year": 2023,
+      "authors": [
+        "Ying Tian",
+        "Jiale Li",
+        "Qizhe Song"
+      ],
+      "cited_by_count": 5,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 44,
+    "key": "zheng2015trajectoryMining",
+    "bib_title": "Deep Trajectory Anomaly Detection for Connected Vehicles",
+    "bib_authors": "Dai, Xinyu and Bickel, Peter and Sun, Jianyuan and Liu, Rong and Zhang, H. Michael",
+    "bib_year": "2021",
+    "bib_venue": "IEEE Transactions on Intelligent Transportation Systems",
+    "verification": {
+      "verified": false,
+      "reason": "No match above similarity threshold in OpenAlex"
+    }
+  },
+  {
+    "index": 45,
+    "key": "chandola2009anomalySurvey",
+    "bib_title": "Vehicle Driving Anomaly Detection Based on Multi-Task Learning and Telematics Data",
+    "bib_authors": "Han, Dongwook and Cho, Sung-Bae and Kim, Hyoungshick",
+    "bib_year": "2022",
+    "bib_venue": "IEEE Transactions on Intelligent Transportation Systems",
+    "verification": {
+      "verified": false,
+      "reason": "No match above similarity threshold in OpenAlex"
+    }
+  },
+  {
+    "index": 46,
+    "key": "sener2018multi",
+    "bib_title": "Multi-Task Learning as Multi-Objective Optimization",
+    "bib_authors": "Sener, Ozan and Koltun, Vladlen",
+    "bib_year": "2018",
+    "bib_venue": "Advances in Neural Information Processing Systems (NeurIPS)",
+    "verification": {
+      "verified": true,
+      "found_title": "Multi-Task Learning as Multi-Objective Optimization",
+      "similarity": 1.0,
+      "doi": "https://doi.org/10.48550/arxiv.1810.04650",
+      "url": "http://arxiv.org/abs/1810.04650",
+      "venue": "arXiv (Cornell University)",
+      "year": 2018,
+      "authors": [
+        "Ozan Şener",
+        "Vladlen Koltun"
+      ],
+      "cited_by_count": 300,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 47,
+    "key": "yu2020gradient",
+    "bib_title": "Gradient Surgery for Multi-Task Learning: Mitigating Negative Transfer",
+    "bib_authors": "Yu, Tianhe and Kumar, Saurabh and Gupta, Abhishek and Levine, Sergey and Hausman, Karol and Finn, Chelsea",
+    "bib_year": "2020",
+    "bib_venue": "Advances in Neural Information Processing Systems (NeurIPS)",
+    "verification": {
+      "verified": true,
+      "found_title": "Gradient Surgery for Multi-Task Learning",
+      "similarity": 0.734,
+      "doi": "https://doi.org/10.48550/arxiv.2001.06782",
+      "url": "http://arxiv.org/abs/2001.06782",
+      "venue": "arXiv (Cornell University)",
+      "year": 2020,
+      "authors": [
+        "Tianhe Yu",
+        "Saurabh Kumar",
+        "Abhishek Gupta"
+      ],
+      "cited_by_count": 92,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 48,
+    "key": "li2018diffusion",
+    "bib_title": "Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting",
+    "bib_authors": "Li, Yaguang and Yu, Rose and Shahabi, Cyrus and Liu, Yan",
+    "bib_year": "2018",
+    "bib_venue": "International Conference on Learning Representations (ICLR)",
+    "verification": {
+      "verified": true,
+      "found_title": "Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting",
+      "similarity": 1.0,
+      "doi": "https://doi.org/10.48550/arxiv.1707.01926",
+      "url": "http://arxiv.org/abs/1707.01926",
+      "venue": "arXiv (Cornell University)",
+      "year": 2017,
+      "authors": [
+        "Li, Yaguang",
+        "Rose Yu",
+        "Cyrus Shahabi"
+      ],
+      "cited_by_count": 506,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 49,
+    "key": "caesar2020nuscenes",
+    "bib_title": "nuScenes: A Multimodal Dataset for Autonomous Driving",
+    "bib_authors": "Caesar, Holger and Bankiti, Varun and Lang, Alex H. and Vora, Sourabh and Liong, Venice Erin and Xu, Qiang and Krishnan, Anush and Pan, Yu and Baldan, Giancarlo and Beijbom, Oscar",
+    "bib_year": "2020",
+    "bib_venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "verification": {
+      "verified": true,
+      "found_title": "nuScenes: A Multimodal Dataset for Autonomous Driving",
+      "similarity": 1.0,
+      "doi": "https://doi.org/10.1109/cvpr42600.2020.01164",
+      "url": "https://doi.org/10.1109/cvpr42600.2020.01164",
+      "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings",
+      "year": 2020,
+      "authors": [
+        "Holger Caesar",
+        "Varun Bankiti",
+        "Alex Lang"
+      ],
+      "cited_by_count": 6853,
+      "source": "OpenAlex"
+    }
+  },
+  {
+    "index": 50,
+    "key": "sun2020scalability",
+    "bib_title": "Scalability in Perception for Autonomous Driving: Waymo Open Dataset",
+    "bib_authors": "Sun, Pei and Kretzschmar, Henrik and Dotiwalla, Xerxes and Chouard, Aurelien and Patnaik, Vijaysai and Tsui, Paul and Guo, James and Zhou, Yin and Chai, Yuning and Caine, Benjamin and Vasudevan, Vijay and Han, Wei and Qi, Jiquan and Zhou, Rui and Sibue, Jean and Yang, Mingxing and Zhao, Hang and Anguelov, Dragomir",
+    "bib_year": "2020",
+    "bib_venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "verification": {
+      "verified": true,
+      "found_title": "Scalability in Perception for Autonomous Driving: Waymo Open Dataset",
+      "similarity": 1.0,
+      "doi": "https://doi.org/10.1109/cvpr42600.2020.00252",
+      "url": "https://doi.org/10.1109/cvpr42600.2020.00252",
+      "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings",
+      "year": 2020,
+      "authors": [
+        "Pei Sun",
+        "Henrik Kretzschmar",
+        "Xerxes Dotiwalla"
+      ],
+      "cited_by_count": 3296,
+      "source": "OpenAlex"
+    }
+  }
+]
